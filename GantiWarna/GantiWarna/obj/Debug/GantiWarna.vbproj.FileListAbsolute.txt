@@ -1,0 +1,10 @@
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\bin\Debug\GantiWarna.exe.config
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\bin\Debug\GantiWarna.exe
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\bin\Debug\GantiWarna.pdb
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\bin\Debug\GantiWarna.xml
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\obj\Debug\GantiWarna.Form1.resources
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\obj\Debug\GantiWarna.Resources.resources
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\obj\Debug\GantiWarna.vbproj.GenerateResource.Cache
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\obj\Debug\GantiWarna.exe
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\obj\Debug\GantiWarna.xml
+D:\Pendidikan\POLTEK\SEMESTER 3\Pemrograman GUI\Minggu2\GantiWarna\GantiWarna\obj\Debug\GantiWarna.pdb
